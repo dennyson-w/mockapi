@@ -6,11 +6,11 @@
 
 ## REST examples
 
-- https://mockend.com/S-Co/mockapi/posts
-- https://mockend.com/S-Co/mockapi/posts/1
-- https://mockend.com/S-Co/mockapi/posts?createdAt_order=desc
-- https://mockend.com/S-Co/mockapi/posts?tag_eq=one
+- https://mockend.com/denison-w/mockapi/posts
+- https://mockend.com/denison-w/mockapi/posts/1
+- https://mockend.com/denison-w/mockapi/posts?createdAt_order=desc
+- https://mockend.com/denison-w/mockapi/posts?tag_eq=one
 
 ## GraphQL examples
 
-- [https://mockend.com/S-Co/mockapi/graphql?query=...](https://mockend.com/S-Co/mockapi/graphql?query=%7B%0A%20%20post(id%3A%205)%20%7B%0A%20%20%20%20title%2C%0A%20%20%20%20cover%0A%20%20%7D%0A%7D)
+- [https://mockend.com/denison-w/mockapi/graphql?query=...](https://mockend.com/denison-w/mockapi/graphql?query=%7B%0A%20%20post(id%3A%205)%20%7B%0A%20%20%20%20title%2C%0A%20%20%20%20cover%0A%20%20%7D%0A%7D)
